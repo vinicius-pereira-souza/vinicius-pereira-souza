@@ -1,10 +1,6 @@
 ### Olá, Me chamo Vinicius 🖖
 
-<div style="display: inline_block">
-  - 🌱 Estudando:
-  <img align="center" alt="vinicius-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> -
-  <img align="center" alt="vinicius-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-</div>
+- 🌱 Estudando: ReactJs - NextJs
 - 😄 Pronouns: ele/eles
 
 <div align="center">
