@@ -20,6 +20,6 @@
   
   <a href="https://www.linkedin.com/in/vinicius-pereira-b99a04179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
+  ![Snake animation](https://github.com/vinicius-pereira-souza/vinicius-pereira-souza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
