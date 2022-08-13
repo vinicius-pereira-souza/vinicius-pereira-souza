@@ -1,6 +1,6 @@
 ### Olá, Me chamo Vinicius 🖖
 
-- 🌱 Estudando: ReactJs - NextJs
+- 🌱 Estudando: NextJs
 - 😄 Pronouns: ele/eles
 
 <div align="center">
