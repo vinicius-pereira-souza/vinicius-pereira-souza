@@ -1,7 +1,6 @@
 ### Olá, Me chamo Vinicius 🖖
 
 - 🌱 Estudando: ReactJs
-- 😄 Pronouns: ele/eles
 
 <div align="center">
   <a href="https://github.com/vinicius-pereira-souza">
