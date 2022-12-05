@@ -1,7 +1,7 @@
 <h1>Olá, Me chamo Vinicius 🖖</h1>
 
-<h2>Estudando: </h2>
-- ReactJs
+<h2>Estudando: reactJs</h2>
+
 
 <div align="center">
   <a href="https://github.com/vinicius-pereira-souza">
