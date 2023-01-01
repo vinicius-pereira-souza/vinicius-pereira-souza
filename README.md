@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/vinicius-pereira-b99a04179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h2>💻 Tech Stack:</h2>
-<div display="flex"justify-content="center"align-itens="center"align="center">
+<div>
   <img  align="center" alt="vinicius-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img  align="center" alt="vinicius-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img  align="center" alt="vinicius-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
