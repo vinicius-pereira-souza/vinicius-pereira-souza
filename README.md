@@ -1,6 +1,6 @@
 <h1> 💫 About Me:</h1>
 🖖 Eu me chamo Vinicius<br>
-📚 Estou estudando no momento ReactJS e Git
+📚 Estou estudando no momento ReactJS e TypeScript
 
 <h2>📊 GitHub Stats:</h2>
 <div display="flex"justify-content="center"align-itens="center"align="center">
@@ -16,6 +16,7 @@
   <img  align="center" alt="vinicius-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="vinicius-bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="vinicius-Sass" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="vinicius-Sass" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <h2>🌐 Socials:</h2>
