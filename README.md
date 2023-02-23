@@ -1,6 +1,6 @@
 <h1> 💫 About Me:</h1>
 🖖 Eu me chamo Vinicius<br>
-📚 Estou estudando no momento TypeScript
+📚 Estou estudando no momento TypeScript, Tailwind
 
 <h2>📊 GitHub Stats:</h2>
 <div display="flex"justify-content="center"align-itens="center"align="center">
@@ -18,8 +18,7 @@
   <img align="center" alt="vinicius-Sass" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="vinicius-Sass" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="vinicius-Sass" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="vinicius-Sass" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="vinicius-Sass" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    
 </div>
 
 <h2>🌐 Socials:</h2>
