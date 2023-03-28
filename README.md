@@ -1,6 +1,6 @@
 <h1> 💫 About Me:</h1>
 🖖 Eu me chamo Vinicius<br>
-📚 Estou estudando no momento React Native
+📚 Estou estudando no momento NextJS
 
 <h2>📊 GitHub Stats:</h2>
 <div display="flex"justify-content="center"align-itens="center"align="center">
