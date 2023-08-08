@@ -1,7 +1,7 @@
 <h1> 💫 About Me:</h1>
 🖖 Eu me chamo Vinicius<br>
-📖 Estou estudando no momento Next.JS, NPM<br>
-📚 Proximo estudo será de Node.JS
+📖 Estou estudando no momento Node, NPM<br>
+📚 Proximo estudo será de MongoDB
 
 <h2>📊 GitHub Stats:</h2>
 <div display="flex"justify-content="center"align-itens="center"align="center">
@@ -21,6 +21,7 @@
   <img align="center" alt="vinicius-Git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="vinicius-React" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="vinicius-TailwindCSS" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="vinicius-nextjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     
 </div>
 
