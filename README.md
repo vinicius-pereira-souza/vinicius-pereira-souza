@@ -1,6 +1,6 @@
 <h1> 💫 About Me:</h1>
 🖖 Eu me chamo Vinicius<br>
-📚 No momento estou cursando Analise e Desenvolvimento de Sistemas<br>
+📚 No momento estou cursando a faculdade de Analise e Desenvolvimento de Sistemas<br>
 
 <h2>📊 GitHub Stats:</h2>
 <div display="flex"justify-content="center"align-itens="center"align="center">
