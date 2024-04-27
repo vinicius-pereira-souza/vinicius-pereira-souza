@@ -19,6 +19,7 @@
   <img align="center" alt="vinicius-JAVASCRIPT"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img align="center" alt="vinicius-REACTJS"  src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
   <img align="center" alt="vinicius-NEXTJS"  src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img align="center" alt="vinicius-VITE"  src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
   <img align="center" alt="vinicius-NPM"  src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img align="center" alt="vinicius-GIT"  src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
   <img align="center" alt="vinicius-FIREBASE"  src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
