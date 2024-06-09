@@ -1,7 +1,8 @@
 # 💫 Sobre Mim
 
-🖖 Eu me chamo Vinicius \
-📚 No momento estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
+🖖 Eu me chamo Vinicius. 
+📚 No momento estou realizando a faculdade de Análise e Desenvolvimento de Sistemas.
+📖 E parte estou realizando um curso de Node.
 
 ## 📊 Estatísticas do GitHub:
 
