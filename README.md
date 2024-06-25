@@ -2,7 +2,6 @@
 
 🖖 Eu me chamo Vinicius.</br>
 📚 No momento estou realizando a faculdade de Análise e Desenvolvimento de Sistemas.</br>
-📖 Estou realizando um curso de Node.
 
 ## 📊 Estatísticas do GitHub:
 
