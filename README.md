@@ -2,6 +2,7 @@
 
 🖖 Eu me chamo Vinicius.</br>
 📚 No momento estou realizando a faculdade de Análise e Desenvolvimento de Sistemas.</br>
+📚 Realizando o curso de Docker</br>
 
 ## 📊 Estatísticas do GitHub:
 
