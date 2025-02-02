@@ -2,7 +2,7 @@
 
 🖖 Eu me chamo Vinicius.</br>
 📚 No momento estou realizando a faculdade de Análise e Desenvolvimento de Sistemas.</br>
-📚 Realizando o curso de Design de banco de dados e c#</br>
+📚 Realizando o curso de SQL com MySQL e C#</br>
 
 ## 📊 Estatísticas do GitHub:
 
