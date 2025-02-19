@@ -1,6 +1,6 @@
 # 💫 Sobre Mim
 
-Olá! Sou Vinicius. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos com cursos de SQL com MySQL e C#.
+Olá! Sou Vinicius. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos com cursos de SQL com MySQL.
 
 ## 📊 Estatísticas do GitHub
 
