@@ -1,6 +1,8 @@
 # 💫 Sobre Mim
 
-Olá! Sou Vinicius. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos com cursos de SQL com MySQL.
+Olá! Sou Vinicius, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, atualmente no final do 4º semestre e me preparando para o 5º e último.
+Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento de software, revisando conteúdos que já estudei e explorando novas tecnologias.
+Tenho interesse especial em desenvolvimento web, tanto frontend quanto backend, e busco constantemente evoluir como desenvolvedor, construindo projetos práticos e aprendendo de forma contínua.
 
 ## 📊 Estatísticas do GitHub
 
