@@ -1,13 +1,16 @@
 # 💫 Sobre Mim
 
-Olá! Sou Vinicius, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, atualmente no final do 4º semestre e me preparando para o 5º e último.
-Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento de software, revisando conteúdos que já estudei e explorando novas tecnologias.
-Tenho interesse especial em desenvolvimento web, tanto frontend quanto backend, e busco constantemente evoluir como desenvolvedor, construindo projetos práticos e aprendendo de forma contínua.
+Olá! Sou Vinicius, formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac.
 
-## 📊 Estatísticas do GitHub
+Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento de software, aprofundando conceitos que já estudei e explorando novas tecnologias e boas práticas de desenvolvimento.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinicius-pereira-souza&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-pereira-souza&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
+Tenho especial interesse em desenvolvimento web, tanto no frontend quanto no backend, e venho construindo projetos práticos utilizando tecnologias como React, Next.js e TypeScript. Também estou me aprofundando em testes de software, buscando desenvolver aplicações mais confiáveis e entender melhor as boas práticas relacionadas à qualidade de código.
+
+Além disso, estou aprofundando meus conhecimentos em bancos de dados, especialmente PostgreSQL, explorando conceitos de modelagem, consultas e integração com aplicações web.
+
+Também estou estudando desenvolvimento mobile com React Native e Expo, buscando ampliar meus conhecimentos e explorar a criação de aplicações para diferentes plataformas.
+
+Busco evoluir continuamente como desenvolvedor, colocando o conhecimento em prática, aprendendo com cada projeto e me mantendo aberto a novos desafios e oportunidades na área de tecnologia.
 
 ## 💻 Tecnologias
 
