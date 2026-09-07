@@ -40,16 +40,22 @@ Tenho experiência com as seguintes tecnologias:
 
    ![Icone MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
    ![Icone MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+   ![Icone PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+   
 
-**Outros:**
+**Ferramentas e Plataformas:**
 
   ![Icone NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Icon PNPM](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
   ![Icone Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
   ![Icone Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+  ![Icone Neon](https://img.shields.io/badge/Neon-34D59A.svg?style=for-the-badge&logo=Neon&logoColor=white)
+  
 
 ## 🔗 Conecte-se comigo
 
 [![Icon Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira-b99a04179/)
+[![Icon E-mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](vinicius.pereira.souza98@gmail.com)
+
 
 
