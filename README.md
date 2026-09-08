@@ -55,7 +55,8 @@ Tenho experiência com as seguintes tecnologias:
 ## 🔗 Conecte-se comigo
 
 [![Icon Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira-b99a04179/)
-[![Icon E-mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](vinicius.pereira.souza98@gmail.com)
+[![Icon E-mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vinicius.pereira.souza98@gmail.com)
+
 
 
 
